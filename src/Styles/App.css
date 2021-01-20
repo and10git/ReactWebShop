@@ -1,0 +1,40 @@
+.formulario {
+  text-align: left
+}
+
+h1 {
+  text-align: center;
+  text-decoration: overline;
+}
+
+h2, h3 {
+  text-decoration: underline !important;
+}
+
+body {
+  background-color: peru !important;
+}
+
+#priceProducto {
+  font-weight: bold !important;
+  color: crimson !important;
+}
+
+#btnProductos {
+  vertical-align: bottom !important;
+  text-align: center !important;
+}
+
+#label {
+  text-decoration: double !important;
+}
+
+#col1{
+text-align: left;
+}
+
+#col2{
+  text-align: right;
+
+}
+
