@@ -1,4 +1,4 @@
-Try it! https://and10git.github.io/ReactWebShop/
+TRY IT! https://and10git.github.io/ReactWebShop/
 
 # Getting Started with Create React App
 
